@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc
+tensorflow==2.15.0
+opencv-python-headless
+av
+pillow
+numpy
